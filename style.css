@@ -504,6 +504,9 @@ ol{
     position: relative;
     left: 2rem;
   }
+  .icon-top{
+    display: flex;
+  }
   
 }
 
